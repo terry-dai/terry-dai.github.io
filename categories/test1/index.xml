@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>test1 on Terry Dai (beta)</title>
+    <link>https://terrydai.com/categories/test1/</link>
+    <description>Recent content in test1 on Terry Dai (beta)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 13 Nov 2021 12:30:07 +1100</lastBuildDate><atom:link href="https://terrydai.com/categories/test1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post - this is a test</title>
+      <link>https://terrydai.com/posts/my-first-post/</link>
+      <pubDate>Sat, 13 Nov 2021 12:30:07 +1100</pubDate>
+      
+      <guid>https://terrydai.com/posts/my-first-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium nibh. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Placerat in egestas erat imperdiet sed euismod. Sed vulputate mi sit amet mauris. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Nec sagittis aliquam malesuada bibendum arcu. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum.</description>
+    </item>
+    
+  </channel>
+</rss>

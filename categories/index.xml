@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Terry Dai (beta)</title>
+    <link>https://terrydai.com/categories/</link>
+    <description>Recent content in Categories on Terry Dai (beta)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 13 Nov 2021 12:30:07 +1100</lastBuildDate><atom:link href="https://terrydai.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>https://terrydai.com/categories/test/</link>
+      <pubDate>Sat, 13 Nov 2021 12:30:07 +1100</pubDate>
+      
+      <guid>https://terrydai.com/categories/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test1</title>
+      <link>https://terrydai.com/categories/test1/</link>
+      <pubDate>Sat, 13 Nov 2021 12:30:07 +1100</pubDate>
+      
+      <guid>https://terrydai.com/categories/test1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
