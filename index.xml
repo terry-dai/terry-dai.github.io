@@ -7,12 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 13 Nov 2021 12:30:07 +1100</lastBuildDate><atom:link href="https://terrydai.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post - this is a test</title>
-      <link>https://terrydai.com/posts/my-first-post/</link>
+      <title>Learning Notes - Getting Started</title>
+      <link>https://terrydai.com/posts/1-getting-started/</link>
       <pubDate>Sat, 13 Nov 2021 12:30:07 +1100</pubDate>
       
-      <guid>https://terrydai.com/posts/my-first-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium nibh. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Placerat in egestas erat imperdiet sed euismod. Sed vulputate mi sit amet mauris. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate. Nec sagittis aliquam malesuada bibendum arcu. Volutpat sed cras ornare arcu dui vivamus arcu felis bibendum.</description>
+      <guid>https://terrydai.com/posts/1-getting-started/</guid>
+      <description>I recently spent about 2hrs to learn rust-lang by following this guide - The Rust Programming Language.
+I wrote down some notes and thoughts about the experiences.
+This is the first part.
+Install Rust on macOS X  $ curl &amp;ndash;proto &amp;lsquo;=https&amp;rsquo; &amp;ndash;tlsv1.2 https://sh.rustup.rs -sSf | sh
+ The installation process was quite nice. Everything was quite smooth and fast ⚡️. Not quite sure if it was because I chose 1) which is the default installation.</description>
     </item>
     
   </channel>
