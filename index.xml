@@ -4,20 +4,77 @@
     <title>Terry Dai (beta)</title>
     <link>https://terrydai.com/</link>
     <description>Recent content on Terry Dai (beta)</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 13 Nov 2021 12:30:07 +1100</lastBuildDate><atom:link href="https://terrydai.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Mar 2026 21:40:14 +1100</lastBuildDate>
+    <atom:link href="https://terrydai.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://terrydai.com/about/</link>
+      <pubDate>Sun, 15 Mar 2026 21:40:14 +1100</pubDate>
+      <guid>https://terrydai.com/about/</guid>
+      <description>&lt;p&gt;This is a simpler version of my CV.
+You can reach me on linked in at: &lt;a href=&#34;https://www.linkedin.com/in/terrydai/&#34;&gt;https://www.linkedin.com/in/terrydai/&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I am a Software Engineer with many years of experience across a wide range of technology stacks and platforms.&lt;/li&gt;
+&lt;li&gt;Recent experience includes: building platform services, data products and pipelines, and leveraging AI tools to improve team productivity.&lt;/li&gt;
+&lt;li&gt;I am passionate about learning and knowledge sharing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;objectives&#34;&gt;Objectives&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To continuously improve my knowledge and practices in software design and engineering.&lt;/li&gt;
+&lt;li&gt;To collaborate closely with stakeholders to regularly and reliably deliver value to customers.&lt;/li&gt;
+&lt;li&gt;To work on impactful products / projects, preferably leveraging data and AI.&lt;/li&gt;
+&lt;li&gt;Mentoring and coaching: I love to share my knowledge and learning with my team.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;programming-languages&#34;&gt;Programming Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Scala&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;TypeScript / JavaScript&lt;/li&gt;
+&lt;li&gt;C#&lt;/li&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills--technologies&#34;&gt;Skills &amp;amp; Technologies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;MySQL / PostgreSQL&lt;/li&gt;
+&lt;li&gt;AWS (DynamoDB, RDS, RedShift, S3 etc)&lt;/li&gt;
+&lt;li&gt;Google Cloud (BigQuery)&lt;/li&gt;
+&lt;li&gt;Databricks&lt;/li&gt;
+&lt;li&gt;ElasticSearch&lt;/li&gt;
+&lt;li&gt;JSON / XML / REST API&lt;/li&gt;
+&lt;li&gt;Protobuf / gRPC API&lt;/li&gt;
+&lt;li&gt;Apache Kafka / Avro&lt;/li&gt;
+&lt;li&gt;Splunk&lt;/li&gt;
+&lt;li&gt;Functional Programming&lt;/li&gt;
+&lt;li&gt;Object Oriented Design and Development&lt;/li&gt;
+&lt;li&gt;Kubernetes&lt;/li&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;Docker&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;previously-worked-at&#34;&gt;Previously Worked At&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Atlassian&lt;/li&gt;
+&lt;li&gt;Zendesk&lt;/li&gt;
+&lt;li&gt;REA Group (realestate.com.au)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Learning Notes - Getting Started</title>
       <link>https://terrydai.com/posts/1-getting-started/</link>
       <pubDate>Sat, 13 Nov 2021 12:30:07 +1100</pubDate>
-      
       <guid>https://terrydai.com/posts/1-getting-started/</guid>
-      <description>I recently spent about 2hrs to learn rust-lang by following this guide - The Rust Programming Language.
-I wrote down some notes and thoughts about the experiences.
-This is the first part.
-Install Rust on macOS X  $ curl &amp;ndash;proto &amp;lsquo;=https&amp;rsquo; &amp;ndash;tlsv1.2 https://sh.rustup.rs -sSf | sh
- The installation process was quite nice. Everything was quite smooth and fast ⚡️. Not quite sure if it was because I chose 1) which is the default installation.</description>
+      <description>&lt;p&gt;I recently spent about 2hrs to learn rust-lang by following this guide - &lt;a href=&#34;https://doc.rust-lang.org/book/title-page.html&#34;&gt;The Rust Programming Language&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I wrote down some notes and thoughts about the experiences.&lt;/p&gt;
+&lt;p&gt;This is the first part.&lt;/p&gt;
+&lt;h2 id=&#34;install-rust-on-macos-x&#34;&gt;Install Rust on macOS X&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;$ curl &amp;ndash;proto &amp;lsquo;=https&amp;rsquo; &amp;ndash;tlsv1.2 &lt;a href=&#34;https://sh.rustup.rs&#34;&gt;https://sh.rustup.rs&lt;/a&gt; -sSf | sh&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The installation process was quite nice. Everything was quite smooth and fast ⚡️.
+Not quite sure if it was because I chose &lt;code&gt;1)&lt;/code&gt; which is the default installation.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

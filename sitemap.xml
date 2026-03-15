@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://terrydai.com/about/</loc>
+    <lastmod>2026-03-15T21:40:14+11:00</lastmod>
+  </url><url>
+    <loc>https://terrydai.com/</loc>
+    <lastmod>2026-03-15T21:40:14+11:00</lastmod>
+  </url><url>
     <loc>https://terrydai.com/categories/</loc>
     <lastmod>2021-11-13T12:30:07+11:00</lastmod>
   </url><url>
@@ -24,9 +30,6 @@
     <lastmod>2021-11-13T12:30:07+11:00</lastmod>
   </url><url>
     <loc>https://terrydai.com/tags/</loc>
-    <lastmod>2021-11-13T12:30:07+11:00</lastmod>
-  </url><url>
-    <loc>https://terrydai.com/</loc>
     <lastmod>2021-11-13T12:30:07+11:00</lastmod>
   </url>
 </urlset>
