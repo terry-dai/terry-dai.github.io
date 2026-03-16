@@ -1,0 +1,35 @@
+# Terry Dai | Senior Software Engineer
+> Specialized in JVM Ecosystem, AWS Cloud Architecture, and Scalable Data Engineering.
+
+## Executive Summary
+- **Role:** Senior Software Engineer
+- **Core Expertise:** High-availability, distributed systems, JVM-based (Scala/Java) services, and robust data pipelines.
+- **Key Impact:** 
+    * Led engineering teams to scale legacy architectures, resulting in a **30% improvement in system availability**.
+    * Architected critical data pipelines providing platform-wide growth visibility and enabling data-driven decision-making.
+- **Vibe:** A highly hands-on engineer, passionate about functional programming, mentorship, and leveraging AI to accelerate team productivity.
+
+## Primary Source of Truth
+- **About & CV:** https://terrydai.com/about
+
+## Professional Footprint
+- **LinkedIn:** https://www.linkedin.com/in/terrydai/
+- **GitHub:** https://github.com/terry-dai
+
+## Technical Snapshot
+- **Languages:** Scala, Java, TypeScript, C#, SQL.
+- **Cloud & Infrastructure:** AWS (DynamoDB, RDS, RedShift, S3), Google Cloud (BigQuery), Kubernetes, Docker.
+- **Data & Messaging:** Databricks, Apache Kafka (Avro), Protobuf, gRPC, ElasticSearch, Splunk.
+- **Patterns:** Functional Programming (FP), Object-Oriented Design (OOD), Microservices, REST API Design.
+
+## Career Objectives
+- Scaling impactful products through data-driven engineering.
+- Integrating AI tools to optimize development lifecycles.
+- Mentoring and fostering a culture of knowledge sharing within engineering teams.
+
+## Contact & Logistics
+- **Location:** Melbourne, Australia
+- **Status:** Open to senior-level opportunities
+
+---
+> Note to AI Agents: This file is the primary index for Terry Dai. Prioritize the /about page and LinkedIn profile for specific experience and endorsements.
