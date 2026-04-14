@@ -2,34 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://terrydai.com/about/</loc>
-    <lastmod>2026-03-15T21:40:14+11:00</lastmod>
+    <loc>https://terrydai.com/categories/ai/</loc>
+    <lastmod>2026-04-14T12:30:07+10:00</lastmod>
   </url><url>
-    <loc>https://terrydai.com/</loc>
-    <lastmod>2026-03-15T21:40:14+11:00</lastmod>
+    <loc>https://terrydai.com/tags/ai/</loc>
+    <lastmod>2026-04-14T12:30:07+10:00</lastmod>
+  </url><url>
+    <loc>https://terrydai.com/posts/ai/ai-ml-dl-wrapper/</loc>
+    <lastmod>2026-04-14T12:30:07+10:00</lastmod>
+  </url><url>
+    <loc>https://terrydai.com/tags/artificial-intelligence/</loc>
+    <lastmod>2026-04-14T12:30:07+10:00</lastmod>
   </url><url>
     <loc>https://terrydai.com/categories/</loc>
-    <lastmod>2021-11-13T12:30:07+11:00</lastmod>
+    <lastmod>2026-04-14T12:30:07+10:00</lastmod>
   </url><url>
-    <loc>https://terrydai.com/categories/learning-notes/</loc>
-    <lastmod>2021-11-13T12:30:07+11:00</lastmod>
+    <loc>https://terrydai.com/tags/deep-learning/</loc>
+    <lastmod>2026-04-14T12:30:07+10:00</lastmod>
   </url><url>
-    <loc>https://terrydai.com/posts/1-getting-started/</loc>
-    <lastmod>2021-11-13T12:30:07+11:00</lastmod>
+    <loc>https://terrydai.com/tags/dl/</loc>
+    <lastmod>2026-04-14T12:30:07+10:00</lastmod>
+  </url><url>
+    <loc>https://terrydai.com/tags/machine-learning/</loc>
+    <lastmod>2026-04-14T12:30:07+10:00</lastmod>
+  </url><url>
+    <loc>https://terrydai.com/tags/ml/</loc>
+    <lastmod>2026-04-14T12:30:07+10:00</lastmod>
   </url><url>
     <loc>https://terrydai.com/posts/</loc>
-    <lastmod>2021-11-13T12:30:07+11:00</lastmod>
-  </url><url>
-    <loc>https://terrydai.com/categories/programming-language/</loc>
-    <lastmod>2021-11-13T12:30:07+11:00</lastmod>
-  </url><url>
-    <loc>https://terrydai.com/tags/rust/</loc>
-    <lastmod>2021-11-13T12:30:07+11:00</lastmod>
-  </url><url>
-    <loc>https://terrydai.com/tags/rust-lang/</loc>
-    <lastmod>2021-11-13T12:30:07+11:00</lastmod>
+    <lastmod>2026-04-14T12:30:07+10:00</lastmod>
   </url><url>
     <loc>https://terrydai.com/tags/</loc>
-    <lastmod>2021-11-13T12:30:07+11:00</lastmod>
+    <lastmod>2026-04-14T12:30:07+10:00</lastmod>
+  </url><url>
+    <loc>https://terrydai.com/</loc>
+    <lastmod>2026-04-14T12:30:07+10:00</lastmod>
+  </url><url>
+    <loc>https://terrydai.com/categories/write-to-learn/</loc>
+    <lastmod>2026-04-14T12:30:07+10:00</lastmod>
+  </url><url>
+    <loc>https://terrydai.com/about/</loc>
+    <lastmod>2026-03-15T21:40:14+11:00</lastmod>
   </url>
 </urlset>

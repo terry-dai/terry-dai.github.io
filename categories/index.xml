@@ -6,20 +6,20 @@
     <description>Recent content in Categories on Terry Dai (beta)</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Nov 2021 12:30:07 +1100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 12:30:07 +1000</lastBuildDate>
     <atom:link href="https://terrydai.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Learning Notes</title>
-      <link>https://terrydai.com/categories/learning-notes/</link>
-      <pubDate>Sat, 13 Nov 2021 12:30:07 +1100</pubDate>
-      <guid>https://terrydai.com/categories/learning-notes/</guid>
+      <title>AI</title>
+      <link>https://terrydai.com/categories/ai/</link>
+      <pubDate>Tue, 14 Apr 2026 12:30:07 +1000</pubDate>
+      <guid>https://terrydai.com/categories/ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>Programming Language</title>
-      <link>https://terrydai.com/categories/programming-language/</link>
-      <pubDate>Sat, 13 Nov 2021 12:30:07 +1100</pubDate>
-      <guid>https://terrydai.com/categories/programming-language/</guid>
+      <title>Write to Learn</title>
+      <link>https://terrydai.com/categories/write-to-learn/</link>
+      <pubDate>Tue, 14 Apr 2026 12:30:07 +1000</pubDate>
+      <guid>https://terrydai.com/categories/write-to-learn/</guid>
       <description></description>
     </item>
   </channel>

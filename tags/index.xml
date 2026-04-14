@@ -6,20 +6,48 @@
     <description>Recent content in Tags on Terry Dai (beta)</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Nov 2021 12:30:07 +1100</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 12:30:07 +1000</lastBuildDate>
     <atom:link href="https://terrydai.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rust</title>
-      <link>https://terrydai.com/tags/rust/</link>
-      <pubDate>Sat, 13 Nov 2021 12:30:07 +1100</pubDate>
-      <guid>https://terrydai.com/tags/rust/</guid>
+      <title>AI</title>
+      <link>https://terrydai.com/tags/ai/</link>
+      <pubDate>Tue, 14 Apr 2026 12:30:07 +1000</pubDate>
+      <guid>https://terrydai.com/tags/ai/</guid>
       <description></description>
     </item>
     <item>
-      <title>Rust-Lang</title>
-      <link>https://terrydai.com/tags/rust-lang/</link>
-      <pubDate>Sat, 13 Nov 2021 12:30:07 +1100</pubDate>
-      <guid>https://terrydai.com/tags/rust-lang/</guid>
+      <title>Artificial Intelligence</title>
+      <link>https://terrydai.com/tags/artificial-intelligence/</link>
+      <pubDate>Tue, 14 Apr 2026 12:30:07 +1000</pubDate>
+      <guid>https://terrydai.com/tags/artificial-intelligence/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>https://terrydai.com/tags/deep-learning/</link>
+      <pubDate>Tue, 14 Apr 2026 12:30:07 +1000</pubDate>
+      <guid>https://terrydai.com/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DL</title>
+      <link>https://terrydai.com/tags/dl/</link>
+      <pubDate>Tue, 14 Apr 2026 12:30:07 +1000</pubDate>
+      <guid>https://terrydai.com/tags/dl/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>https://terrydai.com/tags/machine-learning/</link>
+      <pubDate>Tue, 14 Apr 2026 12:30:07 +1000</pubDate>
+      <guid>https://terrydai.com/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ML</title>
+      <link>https://terrydai.com/tags/ml/</link>
+      <pubDate>Tue, 14 Apr 2026 12:30:07 +1000</pubDate>
+      <guid>https://terrydai.com/tags/ml/</guid>
       <description></description>
     </item>
   </channel>
